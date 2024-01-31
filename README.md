@@ -11,3 +11,4 @@ This article provides many solid reasons for a programmer to learn game devlopme
 =======
 Wei Luo: Game is regarded as one of the latest art form in human history. With the improvement of graphics and user experiences, modern 3A video games could be the most complex software to be developed. Therefore, it requires software engineers with superior skills.
 
+Nicole Luzuriaga: It's fascinating how game development, even at a beginner level, can expose us to cpmplex concepts in a fun and engaging way. I agree that creating small and simple games can be a rich learning exoperience, as it involves tackling challenges that require a good understanding of certain programming concepts. 
